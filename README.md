@@ -8,8 +8,10 @@ Archivos en .zip
 
 ```
 Id al botón CODE en color verde y desplegad el menú, en el que aparecerá dicha opción
-```
 
+```
+<img src="https://user-images.githubusercontent.com/19264/86286220-c29e8280-bbee-11ea-8793-fda3d7e3ab3b.png">
+<th width="95%">
 
 Para cualquier duda o cuestión estamos a vuestra disposición a través de las redes sociales de nuestra marca personal: 
 
