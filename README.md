@@ -4,6 +4,6 @@ En este repositorio encontrarás materiales imprimibles y recursos para trabajar
 
 Para cualquier duda o cuestión estamos a vuestra disposición a través de las redes sociales de nuestra marca personal: 
 
-Twitter: @appneatech
+**Twitter**: @appneatech
 
-Instagram: @appnea_tech
+**Instagram**: @appnea_tech
